@@ -1,0 +1,30 @@
+2025-04-10 08:55:08,591 INFO:Embed complete..
+2025-04-10 08:55:09,038 INFO:HTTP Request: GET https://1fdf69f9-6184-4d12-92e5-447f0a47023a.us-east4-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-04-10 08:55:17,259 INFO:Ingesting complete..
+2025-04-10 08:55:17,259 INFO:Retrieve setup complete..
+2025-04-10 09:13:50,019 INFO:Embed complete..
+2025-04-10 09:13:50,431 INFO:HTTP Request: GET https://1fdf69f9-6184-4d12-92e5-447f0a47023a.us-east4-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-04-10 09:13:58,235 INFO:Ingesting complete..
+2025-04-10 09:13:58,235 INFO:Retrieve setup complete..
+2025-04-10 09:30:06,332 INFO:Embed complete..
+2025-04-10 09:30:06,710 INFO:HTTP Request: GET https://1fdf69f9-6184-4d12-92e5-447f0a47023a.us-east4-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-04-10 09:30:15,229 INFO:Ingesting complete..
+2025-04-10 09:30:15,231 INFO:Retrieve setup complete..
+2025-04-10 09:37:30,778 INFO:Embed complete..
+2025-04-10 09:37:31,159 INFO:HTTP Request: GET https://1fdf69f9-6184-4d12-92e5-447f0a47023a.us-east4-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-04-10 09:37:39,208 INFO:Ingesting complete..
+2025-04-10 09:37:39,208 INFO:Retrieve setup complete..
+2025-04-10 10:24:16,794 INFO:Embed complete..
+2025-04-10 10:24:17,194 INFO:HTTP Request: GET https://1fdf69f9-6184-4d12-92e5-447f0a47023a.us-east4-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-04-10 10:24:25,102 INFO:Ingesting complete..
+2025-04-10 10:24:25,102 INFO:Retrieve setup complete..
+2025-04-10 10:24:25,103 INFO:Loading VLChatProcessor
+2025-04-10 10:24:26,615 INFO:VLChatProcessor loaded
+2025-04-14 07:19:35,983 INFO:Embed complete..
+2025-04-14 07:19:37,574 INFO:HTTP Request: GET https://1fdf69f9-6184-4d12-92e5-447f0a47023a.us-east4-0.gcp.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+2025-04-14 07:19:55,950 INFO:Ingesting complete..
+2025-04-14 07:19:55,951 INFO:Retrieve setup complete..
+2025-04-14 07:19:55,951 INFO:Loading VLChatProcessor
+2025-04-14 07:20:01,875 INFO:VLChatProcessor loaded
+2025-04-14 07:20:33,275 INFO:VLChat loaded
+2025-04-14 07:20:33,275 INFO:RAG query engine setup complete..
