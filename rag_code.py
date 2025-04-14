@@ -20,6 +20,10 @@ logging.basicConfig(
 import os
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 
+from dotenv import load_dotenv
+load_dotenv()
+QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
+
 def batch_iterate(lst, batch_size):
     """Yield successive n-sized chunks from lst."""
     for i in range(0, len(lst), batch_size):
@@ -90,7 +94,7 @@ class QdrantVDB_QB:
         
         self.client = QdrantClient(
     	url="https://1fdf69f9-6184-4d12-92e5-447f0a47023a.us-east4-0.gcp.cloud.qdrant.io",
-   	 api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.kROAEmpyIWk2v_DsDAQVLOuIauCRCjg0NdOkJAjAqi0",  # if required
+   	    api_key=QDRANT_API_KEY,  # if required
     	 prefer_grpc=True
 		)
         

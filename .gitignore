@@ -1,2 +1,3 @@
 Janus/
 __pycache__/
+.env
